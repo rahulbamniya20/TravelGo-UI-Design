@@ -7,6 +7,8 @@
     <td style="margin: auto; text-align: center;">
       <img src="https://github.com/rahulbamniya20/TravelGo-UI-Design/assets/110114539/98ca39fb-6cf3-495d-a843-4e27b6eae1e0" alt="TraveGo" width="260" height="550"/>
     </td>
+    <br>
+    <center>
     <td style="margin: 20px; text-align: center;">
       <img src="https://github.com/rahulbamniya20/TravelGo-UI-Design/assets/110114539/54744236-41a3-482b-b0e5-e6d73067f7f2" alt="TraveGo" width="260" height="550"/>
     </td>
@@ -19,6 +21,7 @@
     <td style="margin: 20px; text-align: center;">
       <img src="https://github.com/rahulbamniya20/TravelGo-UI-Design/assets/110114539/c673b84d-8140-40a4-ba7e-b4b48bdc6056" alt="TraveGo" width="260" height="550" style="margin: 20"/>
     </td>
+  </center>
   </tr>
 </table>
 </div>
